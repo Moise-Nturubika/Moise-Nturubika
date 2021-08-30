@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help to improve myself in 3D sculpting with Blender
 - 💬 Ask me about anything, I am happy to help
 - 😄 My hobby: Call of Duty game and chess
-- ⚡ Excited by the challenges
+- ⚡ Excited by challenges
 
 -----
 <h3> 🛠 &nbsp;Tech Stack</h3>

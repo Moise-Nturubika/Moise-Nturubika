@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Moise Nturubika
+### Hi there 👋, I'm Moïse Nturubika
 
 
 - 🔭 I’m currently working on freelance project as flutter and python developer
@@ -9,8 +9,7 @@
 - 😄 My hobby: Call of Duty game and chess
 - ⚡ Excited by the challenges
 
-<Br/>
-
+-----
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 
@@ -34,13 +33,7 @@
   ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-<br/>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
-<Br>
-
+-----
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
@@ -52,9 +45,7 @@
 </p>
 
 
-
-<br/> 
-
+----- 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -63,3 +54,7 @@
   <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>-->
 </a>
 </p>
+
+-----
+
+Credits: Moïse Nturubika

@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on interesting and exciting projects
 - 🤔 I’m looking for help to improve myself in 3D sculpting with Blender
 - 💬 Ask me about anything, I am happy to help
-- 😄 My hobby: Call of Duty game and chess
+- 😄 My hobby: Call of Duty game, chess and MCU Movies
 - ⚡ Excited by challenges
 
 -----

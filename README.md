@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on freelance projects as flutter and python developer
-- 🌱 I’m currently learning ReactJs and Blender 3D modeling
+- 🌱 I’m currently learning Blender 3D modeling
 - 👯 I’m looking to collaborate on interesting and exciting projects
 - 🤔 I’m looking for help to improve myself in 3D sculpting with Blender
 - 💬 Ask me about anything, I am happy to help

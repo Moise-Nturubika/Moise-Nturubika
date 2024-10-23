@@ -2,7 +2,7 @@
 
 <a href="https://moise-nturubika.vercel.app/">Check my portfolio</a>
 
-- 🔭 I’m currently working on freelance projects as flutter and web developer
+- 🔭 I’m currently working on open source projects as flutter and web developer([Tiki Wiki CMS](https://gitlab.com/tikiwiki/tiki))
 - 🌱 I’m currently learning Blender 3D modeling
 - 👯 I’m looking to collaborate on interesting and exciting projects
 - 🤔 I’m looking for help to improve myself in 3D sculpting with Blender

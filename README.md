@@ -15,11 +15,15 @@
 
 - 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-14354C?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-316192?style=for-the-badge&logo=dart&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![PHP](https://img.shields.io/badge/Php-14354C?style=for-the-badge&logo=php&logoColor=white)
   ![SQL](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sql&logoColor=white)
 - 
   ![Flutter](https://img.shields.io/badge/Flutter-316192?style=for-the-badge&logo=flutter&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NEst-316192?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-217346?style=for-the-badge&logo=django&logoColor=white)
   ![ReactJs](https://img.shields.io/badge/React-0078D6?style=for-the-badge&logo=react&logoColor=white)
 -
